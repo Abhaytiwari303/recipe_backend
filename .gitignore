@@ -1,0 +1,44 @@
+# === Python / Streamlit / Django ===
+*.py[cod]
+__pycache__/
+env/
+venv/
+*.sqlite3
+db.sqlite3
+media/
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.migrations/
+
+# Streamlit cache and logs
+.streamlit/
+.cache/
+
+# Django secrets
+.env
+*.env
+
+# === Android Studio / Kotlin ===
+.gradle/
+.idea/
+local.properties
+*.iml
+*.apk
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.keystore
+
+# === Jetpack Compose preview cache ===
+.compose-cache/
+
+# === OS generated files ===
+.DS_Store
+Thumbs.db
+
+# === Git ===
+.git/
