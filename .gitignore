@@ -13,9 +13,7 @@ media/
 *.pyd
 *.migrations/
 
-# Streamlit cache and logs
-.streamlit/
-.cache/
+
 
 # Django secrets
 .env
